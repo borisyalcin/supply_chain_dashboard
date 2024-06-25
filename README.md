@@ -1,4 +1,8 @@
 # Supply Chain Dashboard for Power BI
+
+##### Please visit the GitHub rep to download and test the dashboard itself.
+<a href="https://github.com/borisyalcin/supply_chain_dashboard/tree/main"> Supply Chain GitHub Rep </a>
+
 Optimize and streamline your supply chain operations with this comprehensive Power BI dashboard. This tool empowers you to visualize key metrics, track inventory levels, monitor order fulfillment, and gain actionable insights for data-driven decision-making.
 
 ## Features
